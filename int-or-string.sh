@@ -59,4 +59,4 @@ echo # undeclared variable tranformed into an integer
 # It's undocumented and probably non-portable behavior.
 # Conclusion: Variables in Bash are untyped,
 #+ with all attendant consequences.
-exit $?
+exit 0
